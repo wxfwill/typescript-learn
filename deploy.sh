@@ -16,4 +16,5 @@ git commit -m 'deploy'
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f https://github.com/wxfwill/typescript-learn.git main
 
+# 返回进入此目录之前所在的目录
 cd -
