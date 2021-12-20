@@ -17,4 +17,4 @@ git commit -m 'deploy'
 git push -f https://github.com/wxfwill/typescript-learn.git main
 
 # 返回进入此目录之前所在的目录
-cd -
+# cd -
