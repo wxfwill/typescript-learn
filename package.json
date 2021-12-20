@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "push": "node deploy.sh"
+    "deploy": "deploy.sh"
   },
   "repository": "https://github.com/wxfwill/typescript-learn.git",
   "author": "will <18810563686@163.com>",
